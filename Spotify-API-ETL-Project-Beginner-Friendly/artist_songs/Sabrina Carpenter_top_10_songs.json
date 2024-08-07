@@ -1,0 +1,792 @@
+[
+    {
+        "album": {
+            "album_type": "single",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+            },
+            "href": "https://api.spotify.com/v1/albums/5quMTd5zeI9yW5UDua8wS4",
+            "id": "5quMTd5zeI9yW5UDua8wS4",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02659cd4673230913b3918e0d5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851659cd4673230913b3918e0d5",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Espresso",
+            "release_date": "2024-04-12",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:5quMTd5zeI9yW5UDua8wS4"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                },
+                "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                "id": "74KM79TiuVKeVCqs8QtB0B",
+                "name": "Sabrina Carpenter",
+                "type": "artist",
+                "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 175459,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USUM72403305"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2qSkIjg1o9h3YT9RAgYN75",
+        "id": "2qSkIjg1o9h3YT9RAgYN75",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Espresso",
+        "popularity": 98,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+        "album": {
+            "album_type": "single",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+            },
+            "href": "https://api.spotify.com/v1/albums/5bBaoign62r1i7OV8w7mi9",
+            "id": "5bBaoign62r1i7OV8w7mi9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02de84adf0e48248ea2d769c3e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851de84adf0e48248ea2d769c3e",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Please Please Please",
+            "release_date": "2024-06-06",
+            "release_date_precision": "day",
+            "total_tracks": 2,
+            "type": "album",
+            "uri": "spotify:album:5bBaoign62r1i7OV8w7mi9"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                },
+                "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                "id": "74KM79TiuVKeVCqs8QtB0B",
+                "name": "Sabrina Carpenter",
+                "type": "artist",
+                "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 186365,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USUM72404101"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5N3hjp1WNayUPZrA8kJmJP",
+        "id": "5N3hjp1WNayUPZrA8kJmJP",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Please Please Please",
+        "popularity": 97,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+            },
+            "href": "https://api.spotify.com/v1/albums/2g4aJTa5ejGpp0O0GKzWAQ",
+            "id": "2g4aJTa5ejGpp0O0GKzWAQ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730f45623be014a592a5815827",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020f45623be014a592a5815827",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510f45623be014a592a5815827",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "emails i can\u2019t send fwd:",
+            "release_date": "2023-03-17",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:2g4aJTa5ejGpp0O0GKzWAQ"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                },
+                "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                "id": "74KM79TiuVKeVCqs8QtB0B",
+                "name": "Sabrina Carpenter",
+                "type": "artist",
+                "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 185552,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USUM72301876"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Zo1PcszsT9WQ0ANntJbID",
+        "id": "2Zo1PcszsT9WQ0ANntJbID",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Feather",
+        "popularity": 88,
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+            },
+            "href": "https://api.spotify.com/v1/albums/5kDmlA2g9Y1YCbNo2Ufxlz",
+            "id": "5kDmlA2g9Y1YCbNo2Ufxlz",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273700f7bf79c9f063ad0362bdf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02700f7bf79c9f063ad0362bdf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851700f7bf79c9f063ad0362bdf",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "emails i can't send",
+            "release_date": "2022-07-15",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:5kDmlA2g9Y1YCbNo2Ufxlz"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                },
+                "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                "id": "74KM79TiuVKeVCqs8QtB0B",
+                "name": "Sabrina Carpenter",
+                "type": "artist",
+                "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 163648,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUM72210708"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6dgUya35uo964z7GZXM07g",
+        "id": "6dgUya35uo964z7GZXM07g",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Nonsense",
+        "popularity": 88,
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6dgUya35uo964z7GZXM07g"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+            },
+            "href": "https://api.spotify.com/v1/albums/5kDmlA2g9Y1YCbNo2Ufxlz",
+            "id": "5kDmlA2g9Y1YCbNo2Ufxlz",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273700f7bf79c9f063ad0362bdf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02700f7bf79c9f063ad0362bdf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851700f7bf79c9f063ad0362bdf",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "emails i can't send",
+            "release_date": "2022-07-15",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:5kDmlA2g9Y1YCbNo2Ufxlz"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                },
+                "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                "id": "74KM79TiuVKeVCqs8QtB0B",
+                "name": "Sabrina Carpenter",
+                "type": "artist",
+                "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 196458,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USUM72210695"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px"
+        },
+        "href": "https://api.spotify.com/v1/tracks/32FhTAAjKZaBein150o3Px",
+        "id": "32FhTAAjKZaBein150o3Px",
+        "is_local": false,
+        "is_playable": true,
+        "name": "because i liked a boy",
+        "popularity": 82,
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:32FhTAAjKZaBein150o3Px"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
+            },
+            "href": "https://api.spotify.com/v1/albums/19KilSbbeHRFFZM7ChwTdP",
+            "id": "19KilSbbeHRFFZM7ChwTdP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f22e1263704f24cb504700ea",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f22e1263704f24cb504700ea",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f22e1263704f24cb504700ea",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Singular Act II",
+            "release_date": "2019-07-19",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:19KilSbbeHRFFZM7ChwTdP"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                },
+                "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                "id": "74KM79TiuVKeVCqs8QtB0B",
+                "name": "Sabrina Carpenter",
+                "type": "artist",
+                "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 181120,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USHR11838865"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/59tskctgqUmjCWAwhzYAFm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/59tskctgqUmjCWAwhzYAFm",
+        "id": "59tskctgqUmjCWAwhzYAFm",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Looking at Me",
+        "popularity": 78,
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:59tskctgqUmjCWAwhzYAFm"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7vk5e3vY1uw9plTHJAMwjN",
+                    "id": "7vk5e3vY1uw9plTHJAMwjN",
+                    "name": "Alan Walker",
+                    "type": "artist",
+                    "uri": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+            },
+            "href": "https://api.spotify.com/v1/albums/3KrkQ77DF9OUB0aOzKFYOF",
+            "id": "3KrkQ77DF9OUB0aOzKFYOF",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273df9a35baaa98675256b35177",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02df9a35baaa98675256b35177",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851df9a35baaa98675256b35177",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "World Of Walker",
+            "release_date": "2021-11-26",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:3KrkQ77DF9OUB0aOzKFYOF"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+                },
+                "href": "https://api.spotify.com/v1/artists/7vk5e3vY1uw9plTHJAMwjN",
+                "id": "7vk5e3vY1uw9plTHJAMwjN",
+                "name": "Alan Walker",
+                "type": "artist",
+                "uri": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                },
+                "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                "id": "74KM79TiuVKeVCqs8QtB0B",
+                "name": "Sabrina Carpenter",
+                "type": "artist",
+                "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+                },
+                "href": "https://api.spotify.com/v1/artists/329e4yvIujISKGKz1BZZbO",
+                "id": "329e4yvIujISKGKz1BZZbO",
+                "name": "Farruko",
+                "type": "artist",
+                "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 193959,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "NOG841901010"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3BomnHfqKZCdPJC9bkGBjE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3BomnHfqKZCdPJC9bkGBjE",
+        "id": "3BomnHfqKZCdPJC9bkGBjE",
+        "is_local": false,
+        "is_playable": true,
+        "name": "On My Way",
+        "popularity": 72,
+        "preview_url": "https://p.scdn.co/mp3-preview/3dfdaba3643516b74bd8696ea0e6a65a488dd857?cid=636c2cc8fa824332a9d2bc39a53eb2e3",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:3BomnHfqKZCdPJC9bkGBjE"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+            },
+            "href": "https://api.spotify.com/v1/albums/5kDmlA2g9Y1YCbNo2Ufxlz",
+            "id": "5kDmlA2g9Y1YCbNo2Ufxlz",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273700f7bf79c9f063ad0362bdf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02700f7bf79c9f063ad0362bdf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851700f7bf79c9f063ad0362bdf",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "emails i can't send",
+            "release_date": "2022-07-15",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:5kDmlA2g9Y1YCbNo2Ufxlz"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                },
+                "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                "id": "74KM79TiuVKeVCqs8QtB0B",
+                "name": "Sabrina Carpenter",
+                "type": "artist",
+                "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 207849,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUM72210694"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4Wos0h9ECU2Z3oJMTQxpbc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Wos0h9ECU2Z3oJMTQxpbc",
+        "id": "4Wos0h9ECU2Z3oJMTQxpbc",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Read your Mind",
+        "popularity": 76,
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4Wos0h9ECU2Z3oJMTQxpbc"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+            },
+            "href": "https://api.spotify.com/v1/albums/5kDmlA2g9Y1YCbNo2Ufxlz",
+            "id": "5kDmlA2g9Y1YCbNo2Ufxlz",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273700f7bf79c9f063ad0362bdf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02700f7bf79c9f063ad0362bdf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851700f7bf79c9f063ad0362bdf",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "emails i can't send",
+            "release_date": "2022-07-15",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:5kDmlA2g9Y1YCbNo2Ufxlz"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                },
+                "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                "id": "74KM79TiuVKeVCqs8QtB0B",
+                "name": "Sabrina Carpenter",
+                "type": "artist",
+                "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 104408,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USUM72210693"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2qLyo5FeWquE7HBUbcVnEy",
+        "id": "2qLyo5FeWquE7HBUbcVnEy",
+        "is_local": false,
+        "is_playable": true,
+        "name": "emails i can\u2019t send",
+        "popularity": 73,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2qLyo5FeWquE7HBUbcVnEy"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                    "id": "74KM79TiuVKeVCqs8QtB0B",
+                    "name": "Sabrina Carpenter",
+                    "type": "artist",
+                    "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
+            },
+            "href": "https://api.spotify.com/v1/albums/7iOAJaGBmk67o337zaqt0R",
+            "id": "7iOAJaGBmk67o337zaqt0R",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d6641a0296d8d09e416e0acd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d6641a0296d8d09e416e0acd",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d6641a0296d8d09e416e0acd",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "EVOLution",
+            "release_date": "2016-10-14",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:7iOAJaGBmk67o337zaqt0R"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+                },
+                "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+                "id": "74KM79TiuVKeVCqs8QtB0B",
+                "name": "Sabrina Carpenter",
+                "type": "artist",
+                "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216466,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USHR11637546"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6WC5fhc9XMaCrUNKNjm9xE",
+        "id": "6WC5fhc9XMaCrUNKNjm9xE",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Thumbs",
+        "popularity": 72,
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6WC5fhc9XMaCrUNKNjm9xE"
+    }
+]

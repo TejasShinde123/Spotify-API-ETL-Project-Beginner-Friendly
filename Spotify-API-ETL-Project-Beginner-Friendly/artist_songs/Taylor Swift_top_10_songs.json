@@ -1,0 +1,782 @@
+[
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+            },
+            "href": "https://api.spotify.com/v1/albums/1NAmidJlEaVgA3MpcPFYGq",
+            "id": "1NAmidJlEaVgA3MpcPFYGq",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e787cffec20aa2a396a61647",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Lover",
+            "release_date": "2019-08-23",
+            "release_date_precision": "day",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:1NAmidJlEaVgA3MpcPFYGq"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                },
+                "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                "id": "06HL4z0CvFAxyc27GXpf02",
+                "name": "Taylor Swift",
+                "type": "artist",
+                "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 178426,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUG11901472"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1BxfuPKGuaTgP7aM0Bbdwr",
+        "id": "1BxfuPKGuaTgP7aM0Bbdwr",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Cruel Summer",
+        "popularity": 92,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+            },
+            "href": "https://api.spotify.com/v1/albums/1Mo4aZ8pdj6L1jx8zSwJnt",
+            "id": "1Mo4aZ8pdj6L1jx8zSwJnt",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025076e4160d018e378f488c33",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515076e4160d018e378f488c33",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "THE TORTURED POETS DEPARTMENT",
+            "release_date": "2024-04-18",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:1Mo4aZ8pdj6L1jx8zSwJnt"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                },
+                "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                "id": "06HL4z0CvFAxyc27GXpf02",
+                "name": "Taylor Swift",
+                "type": "artist",
+                "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+                },
+                "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+                "id": "246dkjvS1zLTtiykXe5h60",
+                "name": "Post Malone",
+                "type": "artist",
+                "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 228965,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUG12401028"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2OzhQlSqBEmt7hmkYxfT6m",
+        "id": "2OzhQlSqBEmt7hmkYxfT6m",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Fortnight (feat. Post Malone)",
+        "popularity": 90,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+            },
+            "href": "https://api.spotify.com/v1/albums/1Mo4aZ8pdj6L1jx8zSwJnt",
+            "id": "1Mo4aZ8pdj6L1jx8zSwJnt",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025076e4160d018e378f488c33",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515076e4160d018e378f488c33",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "THE TORTURED POETS DEPARTMENT",
+            "release_date": "2024-04-18",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:1Mo4aZ8pdj6L1jx8zSwJnt"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                },
+                "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                "id": "06HL4z0CvFAxyc27GXpf02",
+                "name": "Taylor Swift",
+                "type": "artist",
+                "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 218004,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USUG12401040"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4q5YezDOIPcoLr8R81x9qy",
+        "id": "4q5YezDOIPcoLr8R81x9qy",
+        "is_local": false,
+        "is_playable": true,
+        "name": "I Can Do It With a Broken Heart",
+        "popularity": 87,
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:4q5YezDOIPcoLr8R81x9qy"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+            },
+            "href": "https://api.spotify.com/v1/albums/1Mo4aZ8pdj6L1jx8zSwJnt",
+            "id": "1Mo4aZ8pdj6L1jx8zSwJnt",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025076e4160d018e378f488c33",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515076e4160d018e378f488c33",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "THE TORTURED POETS DEPARTMENT",
+            "release_date": "2024-04-18",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:1Mo4aZ8pdj6L1jx8zSwJnt"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                },
+                "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                "id": "06HL4z0CvFAxyc27GXpf02",
+                "name": "Taylor Swift",
+                "type": "artist",
+                "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 261228,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USUG12401031"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2F3N9tdombb64aW6VtZOdo",
+        "id": "2F3N9tdombb64aW6VtZOdo",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Down Bad",
+        "popularity": 82,
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2F3N9tdombb64aW6VtZOdo"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+            },
+            "href": "https://api.spotify.com/v1/albums/1Mo4aZ8pdj6L1jx8zSwJnt",
+            "id": "1Mo4aZ8pdj6L1jx8zSwJnt",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025076e4160d018e378f488c33",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515076e4160d018e378f488c33",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "THE TORTURED POETS DEPARTMENT",
+            "release_date": "2024-04-18",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:1Mo4aZ8pdj6L1jx8zSwJnt"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                },
+                "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                "id": "06HL4z0CvFAxyc27GXpf02",
+                "name": "Taylor Swift",
+                "type": "artist",
+                "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 254365,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUG12401036"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0W0iAC1VGlB82PI6elxFYf",
+        "id": "0W0iAC1VGlB82PI6elxFYf",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Guilty as Sin?",
+        "popularity": 81,
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:0W0iAC1VGlB82PI6elxFYf"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+            },
+            "href": "https://api.spotify.com/v1/albums/2fenSS68JI1h4Fo296JfGr",
+            "id": "2fenSS68JI1h4Fo296JfGr",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0295f754318336a07e85ec59bc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485195f754318336a07e85ec59bc",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "folklore",
+            "release_date": "2020-07-24",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:2fenSS68JI1h4Fo296JfGr"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                },
+                "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                "id": "06HL4z0CvFAxyc27GXpf02",
+                "name": "Taylor Swift",
+                "type": "artist",
+                "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 261922,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUG12002842"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3hUxzQpSfdDqwM3ZTFQY0K",
+        "id": "3hUxzQpSfdDqwM3ZTFQY0K",
+        "is_local": false,
+        "is_playable": true,
+        "name": "august",
+        "popularity": 85,
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+            },
+            "href": "https://api.spotify.com/v1/albums/1NAmidJlEaVgA3MpcPFYGq",
+            "id": "1NAmidJlEaVgA3MpcPFYGq",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e787cffec20aa2a396a61647",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Lover",
+            "release_date": "2019-08-23",
+            "release_date_precision": "day",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:1NAmidJlEaVgA3MpcPFYGq"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                },
+                "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                "id": "06HL4z0CvFAxyc27GXpf02",
+                "name": "Taylor Swift",
+                "type": "artist",
+                "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 221306,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUG11901473"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1dGr1c8CrMLDpV6mPbImSI",
+        "id": "1dGr1c8CrMLDpV6mPbImSI",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Lover",
+        "popularity": 86,
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+            },
+            "href": "https://api.spotify.com/v1/albums/1Mo4aZ8pdj6L1jx8zSwJnt",
+            "id": "1Mo4aZ8pdj6L1jx8zSwJnt",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025076e4160d018e378f488c33",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515076e4160d018e378f488c33",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "THE TORTURED POETS DEPARTMENT",
+            "release_date": "2024-04-18",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:1Mo4aZ8pdj6L1jx8zSwJnt"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                },
+                "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                "id": "06HL4z0CvFAxyc27GXpf02",
+                "name": "Taylor Swift",
+                "type": "artist",
+                "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 334084,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUG12401037"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/36t6frENUtCYKuZus6aYDO",
+        "id": "36t6frENUtCYKuZus6aYDO",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Who\u2019s Afraid of Little Old Me?",
+        "popularity": 80,
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:36t6frENUtCYKuZus6aYDO"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+            },
+            "href": "https://api.spotify.com/v1/albums/2fenSS68JI1h4Fo296JfGr",
+            "id": "2fenSS68JI1h4Fo296JfGr",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0295f754318336a07e85ec59bc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485195f754318336a07e85ec59bc",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "folklore",
+            "release_date": "2020-07-24",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:2fenSS68JI1h4Fo296JfGr"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                },
+                "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                "id": "06HL4z0CvFAxyc27GXpf02",
+                "name": "Taylor Swift",
+                "type": "artist",
+                "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 239560,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUG12002836"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4R2kfaDFhslZEMJqAFNpdd",
+        "id": "4R2kfaDFhslZEMJqAFNpdd",
+        "is_local": false,
+        "is_playable": true,
+        "name": "cardigan",
+        "popularity": 84,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+            },
+            "href": "https://api.spotify.com/v1/albums/151w1FgRZfnKZA9FEcg9Z3",
+            "id": "151w1FgRZfnKZA9FEcg9Z3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bb54dde68cd23e2a268ae0f5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bb54dde68cd23e2a268ae0f5",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Midnights",
+            "release_date": "2022-10-21",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:151w1FgRZfnKZA9FEcg9Z3"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                },
+                "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                "id": "06HL4z0CvFAxyc27GXpf02",
+                "name": "Taylor Swift",
+                "type": "artist",
+                "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 200690,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUG12205736"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0V3wPSX9ygBnCm8psDIegu",
+        "id": "0V3wPSX9ygBnCm8psDIegu",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Anti-Hero",
+        "popularity": 84,
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0V3wPSX9ygBnCm8psDIegu"
+    }
+]

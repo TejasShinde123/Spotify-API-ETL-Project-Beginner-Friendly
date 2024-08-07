@@ -1,0 +1,842 @@
+[
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J",
+                    "id": "2tIP7SsRs7vjIcLrU85W8J",
+                    "name": "The Kid LAROI",
+                    "type": "artist",
+                    "uri": "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+            },
+            "href": "https://api.spotify.com/v1/albums/576UTio7xgY7YUxrHMzxeI",
+            "id": "576UTio7xgY7YUxrHMzxeI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b4d59e6fa7e5e7cbc57ac33a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b4d59e6fa7e5e7cbc57ac33a",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "F*CK LOVE 3+: OVER YOU",
+            "release_date": "2021-07-27",
+            "release_date_precision": "day",
+            "total_tracks": 35,
+            "type": "album",
+            "uri": "spotify:album:576UTio7xgY7YUxrHMzxeI"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+                },
+                "href": "https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J",
+                "id": "2tIP7SsRs7vjIcLrU85W8J",
+                "name": "The Kid LAROI",
+                "type": "artist",
+                "uri": "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber",
+                "type": "artist",
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 141805,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USSM12103949"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/567e29TDzLwZwfDuEpGTwo",
+        "id": "567e29TDzLwZwfDuEpGTwo",
+        "is_local": false,
+        "is_playable": true,
+        "name": "STAY (with Justin Bieber)",
+        "popularity": 84,
+        "preview_url": "https://p.scdn.co/mp3-preview/718a2eb032524494a01f73d80af2bcf176c9f3e2?cid=636c2cc8fa824332a9d2bc39a53eb2e3",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:567e29TDzLwZwfDuEpGTwo"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+            },
+            "href": "https://api.spotify.com/v1/albums/5dGWwsZ9iB2Xc3UKR0gif2",
+            "id": "5dGWwsZ9iB2Xc3UKR0gif2",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e6f407c7f3a0ec98845e4431",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Justice",
+            "release_date": "2021-03-19",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:5dGWwsZ9iB2Xc3UKR0gif2"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber",
+                "type": "artist",
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 153190,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUM72102635"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6I3mqTwhRpn34SLVafSH7G",
+        "id": "6I3mqTwhRpn34SLVafSH7G",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Ghost",
+        "popularity": 84,
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:6I3mqTwhRpn34SLVafSH7G"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+            },
+            "href": "https://api.spotify.com/v1/albums/6Fr2rQkZ383FcMqFyT7yPr",
+            "id": "6Fr2rQkZ383FcMqFyT7yPr",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f46b9d202509a8f7384b90de",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f46b9d202509a8f7384b90de",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Purpose (Deluxe)",
+            "release_date": "2015-11-13",
+            "release_date_precision": "day",
+            "total_tracks": 19,
+            "type": "album",
+            "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber",
+                "type": "artist",
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 233720,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUM71516761"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/50kpGaPAhYJ3sGmk6vplg0",
+        "id": "50kpGaPAhYJ3sGmk6vplg0",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Love Yourself",
+        "popularity": 83,
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:50kpGaPAhYJ3sGmk6vplg0"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+            },
+            "href": "https://api.spotify.com/v1/albums/6Fr2rQkZ383FcMqFyT7yPr",
+            "id": "6Fr2rQkZ383FcMqFyT7yPr",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f46b9d202509a8f7384b90de",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f46b9d202509a8f7384b90de",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Purpose (Deluxe)",
+            "release_date": "2015-11-13",
+            "release_date_precision": "day",
+            "total_tracks": 19,
+            "type": "album",
+            "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber",
+                "type": "artist",
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 200786,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUM71516760"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/09CtPGIpYB4BrO8qb1RGsF",
+        "id": "09CtPGIpYB4BrO8qb1RGsF",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Sorry",
+        "popularity": 82,
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+            },
+            "href": "https://api.spotify.com/v1/albums/5cxMa6oLINJzmZ8lF7wWQN",
+            "id": "5cxMa6oLINJzmZ8lF7wWQN",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f1d02a6cec967f8b6b78f76e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f1d02a6cec967f8b6b78f76e",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Believe",
+            "release_date": "2012-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:5cxMa6oLINJzmZ8lF7wWQN"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber",
+                "type": "artist",
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+                },
+                "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+                "id": "0hCNtLu0JehylgoiP8L4Gh",
+                "name": "Nicki Minaj",
+                "type": "artist",
+                "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 227986,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUM71205367"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6QFCMUUq1T2Vf5sFUXcuQ7",
+        "id": "6QFCMUUq1T2Vf5sFUXcuQ7",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Beauty And A Beat",
+        "popularity": 80,
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:6QFCMUUq1T2Vf5sFUXcuQ7"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+            },
+            "href": "https://api.spotify.com/v1/albums/3BmcYMh0KYsimWL6p2gPa9",
+            "id": "3BmcYMh0KYsimWL6p2gPa9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02629dc9e2e3bc20bbd7d92e4a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851629dc9e2e3bc20bbd7d92e4a",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "My World 2.0",
+            "release_date": "2010-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:3BmcYMh0KYsimWL6p2gPa9"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber",
+                "type": "artist",
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+                },
+                "href": "https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi",
+                "id": "3ipn9JLAPI5GUEo4y4jcoi",
+                "name": "Ludacris",
+                "type": "artist",
+                "uri": "spotify:artist:3ipn9JLAPI5GUEo4y4jcoi"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 214240,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUM70919263"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6epn3r7S14KUqlReYr77hA",
+        "id": "6epn3r7S14KUqlReYr77hA",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Baby",
+        "popularity": 81,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6epn3r7S14KUqlReYr77hA"
+    },
+    {
+        "album": {
+            "album_type": "compilation",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7zdGgPQSqb6FOBneFI23y0"
+            },
+            "href": "https://api.spotify.com/v1/albums/7zdGgPQSqb6FOBneFI23y0",
+            "id": "7zdGgPQSqb6FOBneFI23y0",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733645eb6909301b39e530911a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023645eb6909301b39e530911a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513645eb6909301b39e530911a",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Playlist for Gamers",
+            "release_date": "2021-08-18",
+            "release_date_precision": "day",
+            "total_tracks": 59,
+            "type": "album",
+            "uri": "spotify:album:7zdGgPQSqb6FOBneFI23y0"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+                },
+                "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+                "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                "name": "Billie Eilish",
+                "type": "artist",
+                "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber",
+                "type": "artist",
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 194839,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUM71912813"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/69u7FJV6RIbQS3VuqLPSwl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/69u7FJV6RIbQS3VuqLPSwl",
+        "id": "69u7FJV6RIbQS3VuqLPSwl",
+        "is_local": false,
+        "is_playable": true,
+        "name": "bad guy",
+        "popularity": 56,
+        "preview_url": null,
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:69u7FJV6RIbQS3VuqLPSwl"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+            },
+            "href": "https://api.spotify.com/v1/albums/6Fr2rQkZ383FcMqFyT7yPr",
+            "id": "6Fr2rQkZ383FcMqFyT7yPr",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f46b9d202509a8f7384b90de",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f46b9d202509a8f7384b90de",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Purpose (Deluxe)",
+            "release_date": "2015-11-13",
+            "release_date_precision": "day",
+            "total_tracks": 19,
+            "type": "album",
+            "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber",
+                "type": "artist",
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 205680,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUM71511919"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4B0JvthVoAAuygILe3n4Bs",
+        "id": "4B0JvthVoAAuygILe3n4Bs",
+        "is_local": false,
+        "is_playable": true,
+        "name": "What Do You Mean?",
+        "popularity": 79,
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4B0JvthVoAAuygILe3n4Bs"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+            },
+            "href": "https://api.spotify.com/v1/albums/5dGWwsZ9iB2Xc3UKR0gif2",
+            "id": "5dGWwsZ9iB2Xc3UKR0gif2",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e6f407c7f3a0ec98845e4431",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Justice",
+            "release_date": "2021-03-19",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:5dGWwsZ9iB2Xc3UKR0gif2"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber",
+                "type": "artist",
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+                },
+                "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+                "id": "20wkVLutqVOYrc0kxFs7rA",
+                "name": "Daniel Caesar",
+                "type": "artist",
+                "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+                },
+                "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+                "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+                "name": "Giveon",
+                "type": "artist",
+                "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 198081,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USUM72102636"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4iJyoBOLtHqaGxP12qzhQI",
+        "id": "4iJyoBOLtHqaGxP12qzhQI",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Peaches (feat. Daniel Caesar & Giveon)",
+        "popularity": 79,
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+        "album": {
+            "album_type": "single",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6S0dmVVn4udvppDhZIWxCr",
+                    "id": "6S0dmVVn4udvppDhZIWxCr",
+                    "name": "Sean Kingston",
+                    "type": "artist",
+                    "uri": "spotify:artist:6S0dmVVn4udvppDhZIWxCr"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6DOZI2LfBRYHRhZV21LrOu"
+            },
+            "href": "https://api.spotify.com/v1/albums/6DOZI2LfBRYHRhZV21LrOu",
+            "id": "6DOZI2LfBRYHRhZV21LrOu",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ca8d656fa57db4cce117f53b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ca8d656fa57db4cce117f53b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ca8d656fa57db4cce117f53b",
+                    "width": 64
+                }
+            ],
+            "is_playable": true,
+            "name": "Eenie Meenie EP",
+            "release_date": "2020-02-28",
+            "release_date_precision": "day",
+            "total_tracks": 3,
+            "type": "album",
+            "uri": "spotify:album:6DOZI2LfBRYHRhZV21LrOu"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+                },
+                "href": "https://api.spotify.com/v1/artists/6S0dmVVn4udvppDhZIWxCr",
+                "id": "6S0dmVVn4udvppDhZIWxCr",
+                "name": "Sean Kingston",
+                "type": "artist",
+                "uri": "spotify:artist:6S0dmVVn4udvppDhZIWxCr"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber",
+                "type": "artist",
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201973,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM11000814"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4Yaw2PmyOETOnEM3TCf98I"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Yaw2PmyOETOnEM3TCf98I",
+        "id": "4Yaw2PmyOETOnEM3TCf98I",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Eenie Meenie - Radio Version",
+        "popularity": 58,
+        "preview_url": "https://p.scdn.co/mp3-preview/5cc5493937c2b253cda30c11ef882b627e374f19?cid=636c2cc8fa824332a9d2bc39a53eb2e3",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Yaw2PmyOETOnEM3TCf98I"
+    }
+]
